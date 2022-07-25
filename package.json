@@ -6,9 +6,17 @@
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
-  "author": "",
+  "author": "Dawson Taylor",
   "license": "ISC",
   "dependencies": {
     "node-sass": "^7.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dawson-Taylor/ResponsivePortfolioWebsite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dawson-Taylor/ResponsivePortfolioWebsite/issues"
+  },
+  "homepage": "https://github.com/Dawson-Taylor/ResponsivePortfolioWebsite#readme"
 }
