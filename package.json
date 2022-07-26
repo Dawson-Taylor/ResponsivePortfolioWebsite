@@ -9,7 +9,8 @@
   "author": "Dawson Taylor",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^7.0.1"
+    "node-sass": "^7.0.1",
+    "sass": "^1.54.0"
   },
   "repository": {
     "type": "git",
