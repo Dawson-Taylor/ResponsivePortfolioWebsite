@@ -278,3 +278,34 @@ main {
     margin-top: 10vh; }
   .projects {
     grid-template-columns: 1fr; } }
+
+    .education-container {
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: #333;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .education-entry {
+      margin-bottom: 40px;
+  }
+  
+  .institution {
+      font-size: 1.1em;
+      color: #eece1a;
+  }
+  
+  .dates {
+      font-size: 0.9em;
+      color: #ffffff;
+  }
+  
+  .details {
+      list-style-type: disc;
+      padding-left: 20px;
+  }
+  
+  .details li {
+      margin-bottom: 5px;
+  }
